@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🔭 I’m currently working at **HuduTech**
 
-- 👨‍💻 All of my projects are available at [https://njuguna-ian.netlify.app/](https://njuguna-ian.netlify.app/)
+- 👨‍💻 Am available for prjects ping me.
 
 - 💬 Ask me about **Laravel, Vue js, React , Django , Flutter**
 
