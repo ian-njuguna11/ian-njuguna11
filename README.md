@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wambugu Ian</h1>
 <h3 align="center">A passionate fullstack developer from Nairobi Kenya</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/39527186?v=4" alt="ian-njuguna11" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/39527186?v=4" alt="ian-njuguna11" style="width:80px; height: 80px; border-radius:50%;" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ian-njuguna11" alt="ian-njuguna11" /></a> </p>
 
